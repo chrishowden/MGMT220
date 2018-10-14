@@ -1,0 +1,5 @@
+Best assignment will allow for ability to input other Suburb to generate results (e.g. functions).
+
+Part 2 has many more additional costs, factor in 10% on top as most construction is more expensive.
+
+Look at chapters 10, 11 and 14.
